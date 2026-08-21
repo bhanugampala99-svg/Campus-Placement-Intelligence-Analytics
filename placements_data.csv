@@ -1,0 +1,61 @@
+student_id,name,gender,category,branch,college_tier,cgpa,internships,certifications,skills,placement_status,company_type,ctc_lakhs,location
+1,Aarav Sharma,Male,General,CSE,Tier-1,8.7,2,3,"Python,SQL,Machine Learning",Placed,Product,12.5,Bangalore
+2,Ishani Verma,Female,OBC,ECE,Tier-1,7.9,1,2,"Java,SQL,Data Analysis",Placed,Service,6.8,Hyderabad
+3,Rohan Patel,Male,General,MECH,Tier-2,6.5,0,1,"AutoCAD,SolidWorks",Not Placed,,0,
+4,Sneha Reddy,Female,SC,CSE,Tier-1,9.1,3,4,"Python,SQL,Tableau,Power BI",Placed,Product,15.0,Bangalore
+5,Aditya Singh,Male,General,CIVIL,Tier-2,7.2,1,1,"AutoCAD,STAAD Pro",Placed,Core,5.2,Pune
+6,Priya Nair,Female,OBC,EEE,Tier-2,8.0,2,2,"MATLAB,Python,Embedded Systems",Placed,Service,7.0,Chennai
+7,Vikram Rao,Male,General,CSE,Tier-1,8.3,1,2,"Java,Spring,SQL",Placed,Product,10.5,Bangalore
+8,Ananya Das,Female,General,ECE,Tier-1,8.8,2,3,"Python,SQL,Machine Learning",Placed,Product,13.0,Hyderabad
+9,Karan Mehta,Male,OBC,MECH,Tier-3,6.0,0,0,,Not Placed,,0,
+10,Divya Iyer,Female,SC,CSE,Tier-2,7.5,1,2,"Python,SQL,Web Development",Placed,Startup,6.0,Remote
+11,Arjun Kapoor,Male,General,CSE,Tier-1,9.3,3,5,"Python,SQL,Machine Learning,Cloud",Placed,Product,18.0,Bangalore
+12,Neha Gupta,Female,General,ECE,Tier-2,7.8,1,1,"Java,SQL",Placed,Service,6.5,Hyderabad
+13,Rahul Joshi,Male,OBC,CIVIL,Tier-3,6.2,0,1,"AutoCAD",Not Placed,,0,
+14,Pooja Desai,Female,General,EEE,Tier-1,8.4,2,2,"Python,Embedded Systems,SQL",Placed,Core,8.5,Pune
+15,Siddharth Bose,Male,General,CSE,Tier-2,7.0,1,1,"Java,Web Development",Placed,Service,5.5,Chennai
+16,Tara Menon,Female,SC,ECE,Tier-2,8.1,2,2,"Python,SQL,Data Analysis",Placed,Product,9.0,Bangalore
+17,Nikhil Kumar,Male,OBC,MECH,Tier-2,6.8,1,1,"SolidWorks,CATIA",Placed,Core,5.8,Pune
+18,Kavya Reddy,Female,General,CSE,Tier-1,8.9,2,3,"Python,SQL,Machine Learning",Placed,Product,14.0,Bangalore
+19,Amit Singh,Male,General,CIVIL,Tier-2,7.3,1,1,"AutoCAD,MS Project",Placed,Service,6.0,Hyderabad
+20,Deepak Yadav,Male,OBC,EEE,Tier-3,6.4,0,1,"MATLAB",Not Placed,,0,
+21,Meera Iyer,Female,General,CSE,Tier-1,8.5,2,2,"Python,SQL,Data Analysis",Placed,Product,11.0,Bangalore
+22,Rohan Verma,Male,OBC,ECE,Tier-2,7.4,1,1,"Java,SQL",Placed,Service,6.2,Hyderabad
+23,Anjali Nair,Female,SC,MECH,Tier-3,6.1,0,1,"AutoCAD",Not Placed,,0,
+24,Karthik Reddy,Male,General,CSE,Tier-1,9.0,3,3,"Python,SQL,Machine Learning",Placed,Product,16.5,Bangalore
+25,Swati Joshi,Female,General,CIVIL,Tier-2,7.0,1,1,"AutoCAD,STAAD Pro",Placed,Core,5.0,Pune
+26,Vivek Singh,Male,OBC,EEE,Tier-2,7.7,1,2,"MATLAB,Python",Placed,Service,6.8,Chennai
+27,Priyanka Das,Female,General,CSE,Tier-1,8.6,2,2,"Java,Spring,SQL",Placed,Product,12.0,Bangalore
+28,Akash Mehta,Male,General,ECE,Tier-1,8.2,2,2,"Python,SQL,Embedded Systems",Placed,Product,11.5,Hyderabad
+29,Nisha Kapoor,Female,OBC,MECH,Tier-3,5.9,0,0,,Not Placed,,0,
+30,Ravi Iyer,Male,SC,CSE,Tier-2,7.6,1,2,"Python,SQL,Web Development",Placed,Startup,6.5,Remote
+31,Sonia Gupta,Female,General,CSE,Tier-1,9.2,3,4,"Python,SQL,Machine Learning,Cloud",Placed,Product,17.0,Bangalore
+32,Manish Kumar,Male,OBC,ECE,Tier-2,7.3,1,1,"Java,SQL",Placed,Service,6.0,Hyderabad
+33,Anita Sharma,Female,General,CIVIL,Tier-3,6.3,0,1,"AutoCAD",Not Placed,,0,
+34,Suresh Reddy,Male,General,EEE,Tier-1,8.1,2,2,"Python,Embedded Systems,SQL",Placed,Core,8.0,Pune
+35,Rekha Bose,Female,General,CSE,Tier-2,7.2,1,1,"Java,Web Development",Placed,Service,5.8,Chennai
+36,Ajay Menon,Male,SC,ECE,Tier-2,8.0,2,2,"Python,SQL,Data Analysis",Placed,Product,9.5,Bangalore
+37,Geeta Kumar,Female,OBC,MECH,Tier-2,6.7,1,1,"SolidWorks,CATIA",Placed,Core,5.5,Pune
+38,Sanjay Reddy,Male,General,CSE,Tier-1,8.8,2,3,"Python,SQL,Machine Learning",Placed,Product,13.5,Bangalore
+39,Latika Singh,Female,General,CIVIL,Tier-2,7.1,1,1,"AutoCAD,MS Project",Placed,Service,5.9,Hyderabad
+40,Harish Yadav,Male,OBC,EEE,Tier-3,6.5,0,1,"MATLAB",Not Placed,,0,
+41,Nandini Iyer,Female,General,CSE,Tier-1,8.4,2,2,"Python,SQL,Data Analysis",Placed,Product,11.2,Bangalore
+42,Prakash Verma,Male,OBC,ECE,Tier-2,7.5,1,1,"Java,SQL",Placed,Service,6.3,Hyderabad
+43,Sunita Nair,Female,SC,MECH,Tier-3,6.0,0,1,"AutoCAD",Not Placed,,0,
+44,Dinesh Reddy,Male,General,CSE,Tier-1,9.1,3,3,"Python,SQL,Machine Learning",Placed,Product,16.0,Bangalore
+45,Shalini Joshi,Female,General,CIVIL,Tier-2,7.0,1,1,"AutoCAD,STAAD Pro",Placed,Core,5.1,Pune
+46,Ramesh Singh,Male,OBC,EEE,Tier-2,7.8,1,2,"MATLAB,Python",Placed,Service,7.0,Chennai
+47,Usha Das,Female,General,CSE,Tier-1,8.7,2,2,"Java,Spring,SQL",Placed,Product,12.2,Bangalore
+48,Mohan Mehta,Male,General,ECE,Tier-1,8.3,2,2,"Python,SQL,Embedded Systems",Placed,Product,11.8,Hyderabad
+49,Preeti Kapoor,Female,OBC,MECH,Tier-3,5.8,0,0,,Not Placed,,0,
+50,Sachin Iyer,Male,SC,CSE,Tier-2,7.7,1,2,"Python,SQL,Web Development",Placed,Startup,6.7,Remote
+51,Seema Gupta,Female,General,CSE,Tier-1,9.4,3,5,"Python,SQL,Machine Learning,Cloud",Placed,Product,18.5,Bangalore
+52,Arun Kumar,Male,OBC,ECE,Tier-2,7.4,1,1,"Java,SQL",Placed,Service,6.1,Hyderabad
+53,Mala Sharma,Female,General,CIVIL,Tier-3,6.4,0,1,"AutoCAD",Not Placed,,0,
+54,Krishna Reddy,Male,General,EEE,Tier-1,8.2,2,2,"Python,Embedded Systems,SQL",Placed,Core,8.2,Pune
+55,Latha Bose,Female,General,CSE,Tier-2,7.1,1,1,"Java,Web Development",Placed,Service,5.6,Chennai
+56,Anil Menon,Male,SC,ECE,Tier-2,8.1,2,2,"Python,SQL,Data Analysis",Placed,Product,9.7,Bangalore
+57,Uma Kumar,Female,OBC,MECH,Tier-2,6.9,1,1,"SolidWorks,CATIA",Placed,Core,5.7,Pune
+58,Pradeep Reddy,Male,General,CSE,Tier-1,8.9,2,3,"Python,SQL,Machine Learning",Placed,Product,14.5,Bangalore
+59,Sarojini Singh,Female,General,CIVIL,Tier-2,7.2,1,1,"AutoCAD,MS Project",Placed,Service,6.1,Hyderabad
+60,Naresh Yadav,Male,OBC,EEE,Tier-3,6.6,0,1,"MATLAB",Not Placed,,0,
